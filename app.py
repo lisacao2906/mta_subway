@@ -982,7 +982,7 @@ def plot_percentage_change_from_max(filepath):
     fig.update_layout(
         title='Monthly Resource Utilization Rate',
         xaxis_title='Month',
-        yaxis_title='Utilization Rate (%)',
+        yaxis_title='Resources Utilization Rate (%)',
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
         font=dict(color='white'),
