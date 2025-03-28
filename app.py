@@ -1711,7 +1711,7 @@ elif selected_tab == "Recommendations to MTA Management":
     </ul>
     <br>
     <p style="font-size: 18px; font-family: 'Helvetica Neue', sans-serif; color: white;">
-        <strong>Summary of each school’s lowest months and their respective utilization rate:</strong>
+        <strong>Summary of each school’s lowest months and their respective Resources Utilization Rate:</strong>
     </p>
     <ul style="font-size: 18px; font-family: 'Helvetica Neue', sans-serif; color: white;">
         <li><strong>New York University:</strong> Jan (41.2%), Feb (45.9%), June (50.3%)</li>
@@ -1723,7 +1723,7 @@ elif selected_tab == "Recommendations to MTA Management":
     </p>
 
     <ul style="font-size: 18px; font-family: 'Helvetica Neue', sans-serif; color: white;">
-        <li><strong>Scale back service frequencies:</strong> During each station's respective low months to better align with utilization rates, ensuring that fewer resources are wasted during low-demand months. For instance, at NYU, where ridership utilization dips to 41.2% in January and 45.9% in February, the MTA could reduce train frequency to match these lower utilization rates, ensuring that fewer trains are running when demand is low. Similarly, at Columbia in August (51.4%) and Hunter in December (42.1%), service could be scaled down to better match the actual ridership demand.</li>
+        <li><strong>Scale back service frequencies:</strong> During each station's respective low months to better align with resource utilization rates, ensuring that fewer resources are wasted during low-demand months. For instance, at NYU, where ridership resource utilization dips to 41.2% in January and 45.9% in February, the MTA could reduce train frequency to match these lower utilization rates, ensuring that fewer trains are running when demand is low. Similarly, at Columbia in August (51.4%) and Hunter in December (42.1%), service could be scaled down to better match the actual ridership demand.</li>
         <li><strong>Reduce staff presence during low months:</strong> For example, fewer station agents or conductors could be scheduled during off-peak months, or certain services (e.g., information desks, maintenance) could be scaled back. By doing so, MTA can redirect these resources to higher-traffic periods where ridership is more robust, thus achieving a balance between efficient staffing and service delivery.</li>
     </ul>
     """, 
