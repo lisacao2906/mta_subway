@@ -443,11 +443,6 @@ def plot_commuter_heavy_stationss():
 def weekend_stations():
     file_path = "weekend_stations.csv"
     query_df = pd.read_csv(file_path)
-
-    """
-    Visualizes the top stations with a surprising surge in ridership on weekends.
-    """
-
     # Ensure percentage change is numeric and formatted correctly
     query_df["percent_change_compared_to_weekday"] = query_df["percent_change_compared_to_weekday"].astype(float)
     query_df["percent_change_compared_to_weekday"] = query_df["percent_change_compared_to_weekday"].round(1)
