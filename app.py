@@ -1030,7 +1030,7 @@ st.markdown(
 
     .custom-text { 
         font-family: 'Helvetica Neue', sans-serif !important;
-        font-size: 25px !important;
+        font-size: 20px !important;
         color: white !important;
     }
 
